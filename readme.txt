@@ -18,3 +18,7 @@ git status
 git log 
 
 (q => quit)
+
+git remote add origin {{URL}}
+
+git push origin master
