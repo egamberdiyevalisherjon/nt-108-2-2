@@ -14,3 +14,7 @@ git add . => ALL
 git commit -m "{{MESSAGE}}"
 
 git status
+
+git log 
+
+(q => quit)
