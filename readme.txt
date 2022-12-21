@@ -12,3 +12,5 @@ git add {{filename}}
 git add . => ALL
 
 git commit -m "{{MESSAGE}}"
+
+git status
